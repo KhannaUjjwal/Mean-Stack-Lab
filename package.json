@@ -1,0 +1,22 @@
+{
+  "name": "mean_tuorial",
+  "version": "1.0.0",
+  "description": "This is basic tutorial for mean stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongo",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "Ujjwal Khanna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
